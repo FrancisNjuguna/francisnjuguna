@@ -114,7 +114,7 @@ Having extensive experience working with different programming languages and fra
         <br>
         <img src='https://img.shields.io/badge/sketch-black?style=for-the-badge&logo=sketch&logoColor=FF9900' align='center' alt='sketch' />
         <img src='https://img.shields.io/badge/tailwind css-0066FF?style=for-the-badge&logo=tailwindcss&logoColor=white' align='center' alt='tailwind' />
-        <img src='https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=sql&logoColor=white' align='center' alt='tailwind' />
+        <img src='https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=sql&logoColor=white' align='center' alt='sql' />
         <img src='https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=996600' align='center' alt='tensorflow' />
         <img src='https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack&logoColor=0066FF' align='center' alt='webpack' />
         <img src='https://img.shields.io/badge/xd-black?style=for-the-badge&logo=adobexd&logoColor=660033' align='center' alt='sketch' /> </p>
