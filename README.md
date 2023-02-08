@@ -3,7 +3,7 @@
 <h3 align="center">I Am A Passionate Full Stack Developer. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"></h3>
 
 <p align="left" style="max-width:40%">
-  Francis Njuguna is a Highly skilled and inovative full stack Web developer.
+  Francis Njuguna is a Highly skilled and inovative full stack Software developer.
 Focused and efficient learner with practical expertise in mobile apps and web development with automated testing, looking to join a team with whom communication and team work are paramount.
 Having extensive experience working with different programming languages and frameworks, i would jump at any opportunity to continue growing my skillset in the programming field at Exodus Integrity Services contributing to the positive outcome of making people "rich, smarter and happier".
   
