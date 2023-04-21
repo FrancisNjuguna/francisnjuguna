@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://francisnjuguna.github.io)
 <h1 align="center">Hi 👋, I'm Dev Njuguna Francis.</h1>
-<h3 align="center">I Am A Passionate Full Stack Developer. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"></h3>
+<h3 align="center">I Am A Passionate Full Stack Software Developer. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"></h3>
 
 <p align="left" style="max-width:40%">
   Francis Njuguna is a Highly skilled and inovative full stack Software developer.
