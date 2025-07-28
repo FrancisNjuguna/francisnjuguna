@@ -1,106 +1,54 @@
 <div align="center">
-  
-# 🚀 Welcome to Francis Njuguna's Digital Universe
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%8C%9F;Problem+Solver+%26+Innovator+%F0%9F%A7%A0;Building+Digital+Dreams+%F0%9F%9A%80" alt="Typing SVG" />
+# 🌟 Welcome to Francis Njuguna's Coding Universe 🌟
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dev%20Francis%20Njuguna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Software+Developer;⚡+MERN+Stack+Specialist;🌟+Open+Source+Enthusiast;🧠+Problem+Solver+%26+Innovator;💻+Building+Digital+Dreams;🎯+1500%2B+Hours+of+Coding;🔥+Passionate+Tech+Creator;🌍+Making+People+Richer%2C+Smarter%2C+Happier" alt="Typing SVG" />
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Francis%20Njuguna&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Innovator%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18"/>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-## 🎯 About Me
-
-> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-🔥 **Passionate Full Stack Developer** with **1500+ hours** of coding experience  
-🌍 Based in Kenya, building solutions that make people **"richer, smarter, and happier"**  
-🎓 Continuous learner with expertise in **modern web technologies**  
-🤝 Open source enthusiast who believes in **collaboration over competition**  
-⚡ Currently crafting a **Full Stack Blog Web App** with cutting-edge tech  
-
-### 🎪 Fun Facts
-- 🎭 I bring humor to code reviews
-- 🌱 Currently mastering **Flutter** for mobile excellence
-- 🎯 Always ready to collaborate on **innovative projects**
-- 📧 Reach me: **francisnjugunawanjiku@gmail.com**
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Mastery
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" />
-</p>
-
-### ⚙️ Backend Powerhouse  
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,graphql,firebase" />
-</p>
-
-### 🗄️ Database & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,heroku,vercel,netlify,docker" />
-</p>
-
-### 🔧 Tools & Workflow
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack,babel,jest" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=francisnjuguna&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/francisnjuguna?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/francisnjuguna?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
 </div>
 
 ---
 
-## 🌟 GitHub Analytics
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=francisnjuguna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=francisnjuguna&theme=tokyonight&hide_border=true" />
+## 🎯 About Me - The Journey of a Digital Craftsman
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisnjuguna&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=francisnjuguna&theme=tokyonight&hide_border=true" />
+> **"The best way to predict the future is to create it."** – Peter Drucker
 
-</div>
+### 🚀 Who Am I?
 
----
+🔥 **Passionate Full Stack Developer** with **1500+ hours** of hands-on coding experience  
+🌍 **Location**: Kenya 🇰🇪 - Building solutions that transcend borders  
+🎓 **Philosophy**: Continuous learning, collaborative growth, and innovative problem-solving  
+💡 **Mission**: Creating digital solutions that make people **"richer, smarter, and happier"**  
+⚡ **Current Focus**: Crafting a revolutionary **Full Stack Blog Web App**  
+🌱 **Learning Journey**: Mastering **Flutter** for cross-platform mobile excellence  
 
-## 🏆 Achievement Showcase
+### 🎪 Fun Facts & Personality
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=francisnjuguna&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+- 🎭 **Humor in Code**: I bring laughter to code reviews and debugging sessions
+- 🧩 **Problem Solver**: Love turning complex challenges into elegant solutions
+- 🌟 **Open Source Advocate**: Believer in collaboration over competition
+- 🎯 **Always Available**: Ready to collaborate on innovative projects
+- 🎨 **Creative Coder**: Blending functionality with beautiful user experiences
+- 📚 **Lifelong Learner**: Always exploring new technologies and methodologies
+- 🤝 **Team Player**: Communication and teamwork are my superpowers
 
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=francisnjuguna&custom_title=Francis's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
+### 🎨 My Coding Philosophy
 
 ```javascript
-const francis = {
-    currentProject: "Full Stack Blog Web App",
-    learning: ["Flutter", "React Native", "AWS"],
-    collaborating: "Open to any innovative project",
-    askMeAbout: ["React", "Node.js", "MongoDB", "Python", "Django"],
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+const myPhilosophy = {
+    codeQuality: "Clean, readable, and maintainable",
+    problemSolving: "Think first, code second, optimize third",
+    collaboration: "Two minds are better than one",
+    learning: "Every bug is a lesson, every feature is growth",
+    innovation: "Don't just follow trends, create them",
+    impact: "Code that makes a difference in people's lives"
 };
