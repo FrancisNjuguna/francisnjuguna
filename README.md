@@ -1,9 +1,6 @@
 <div align="center">
 
 # 🌟 Welcome to Francis Njuguna's Coding Universe 🌟
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Software+Developer;⚡+MERN+Stack+Specialist;🌟+Open+Source+Enthusiast;🧠+Problem+Solver+%26+Innovator;💻+Building+Digital+Dreams;🎯+1500%2B+Hours+of+Coding;🔥+Passionate+Tech+Creator;🌍+Making+People+Richer%2C+Smarter%2C+Happier" alt="Typing SVG" />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Francis%20Njuguna&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Innovator%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18"/>
 
 <p align="center">
